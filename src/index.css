@@ -2,3 +2,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body {
+  margin: 0;
+  background-color: #232946;
+  color: #b8c1ec;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
